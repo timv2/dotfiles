@@ -7,7 +7,10 @@ fork from [Mathias’s dotfiles](https://github.com/mathiasbynens/dotfiles)
 ## Removed .curlrc
 
 ## Customized .exports
-no notable changes, for details check file history
+
+some minor changes
+added JAVA_HOME
+added Maven OPTS and PATH
 
 ## Removed .gdbinit
 

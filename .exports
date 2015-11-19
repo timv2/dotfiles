@@ -1,9 +1,6 @@
 # Make vim the default editor.
 export EDITOR='vim';
 
-# Add `~/bin` to the `$PATH`. Allows to add local scripts.
-export PATH="$HOME/bin:$PATH";
-
 # Increase Bash history size. Allow 32³ entries; the default is 500.
 export HISTSIZE='32768';
 export HISTFILESIZE="${HISTSIZE}";
@@ -19,3 +16,14 @@ export LESS_TERMCAP_md="${yellow}";
 
 # Don’t clear the screen after quitting a manual page.
 export MANPAGER='less -X';
+
+# Java
+export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.7.0_21.jdk/Contents/Home
+
+# Maven
+export M2_HOME="~/dvl/tools/apache-maven-3.0.5"
+export M2="$M2_HOME/bin"
+export MAVEN_OPTS="-Xms512m -Xmx1024m -XX:MaxPermSize=1024m" 
+
+# Add `~/bin` to the `$PATH`. Allows to add local scripts.
+export PATH="$HOME/bin:$JAVA_HOME/bin:$M2:$PATH";
