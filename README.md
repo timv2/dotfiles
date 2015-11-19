@@ -4,19 +4,19 @@ fork from [Mathias’s dotfiles](https://github.com/mathiasbynens/dotfiles)
 
 ## Removed a whole lot of brews
 
-## Removed .wgetrc
+## Removed .curlrc
 
-## Removed .screenrc
+## Customized .exports
+no notable changes, for details check file history
+
+## Removed .gdbinit
+
+## Removed .gitattributes
 
 ## Removed .hgignore
 
 ## Removed .hushlogin
 
-## Removed .gitattributes
+## Removed .screenrc
 
-## Removed .gdbinit
-
-## Customized the .exports
-no notable changes, for details check file history
-
-## Removed .curlrc
+## Removed .wgetrc
