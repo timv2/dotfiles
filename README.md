@@ -22,6 +22,10 @@ added Maven OPTS and PATH
 
 ## Removed .hushlogin
 
+## Customized .osx
+
+do not hide the dock
+
 ## Removed .screenrc
 
 ## Removed .wgetrc
