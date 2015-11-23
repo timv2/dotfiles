@@ -16,6 +16,8 @@ added Maven OPTS and PATH
 
 ## Removed .gitattributes
 
+## Removed .gvimrc
+
 ## Removed .hgignore
 
 ## Removed .hushlogin
