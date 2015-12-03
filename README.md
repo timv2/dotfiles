@@ -28,6 +28,7 @@ fork from [Mathias’s dotfiles](https://github.com/mathiasbynens/dotfiles)
 * change hot corners
 * lower keyboard rate
 * add vpn in menu bar
+* do not minimize windows in application icon
 
 ## Removed .screenrc
 
