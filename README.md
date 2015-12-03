@@ -8,9 +8,9 @@ fork from [Mathias’s dotfiles](https://github.com/mathiasbynens/dotfiles)
 
 ## Customized .exports
 
-some minor changes
-added JAVA_HOME
-added Maven OPTS and PATH
+* some minor changes
+* added JAVA_HOME
+* added Maven OPTS and PATH
 
 ## Removed .gdbinit
 
@@ -24,7 +24,10 @@ added Maven OPTS and PATH
 
 ## Customized .osx
 
-do not hide the dock
+* do not hide the dock
+* change hot corners
+* lower keyboard rate
+* add vpn in menu bar
 
 ## Removed .screenrc
 
