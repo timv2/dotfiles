@@ -9,7 +9,7 @@ fork from [Mathias’s dotfiles](https://github.com/mathiasbynens/dotfiles)
 ## Customized .exports
 
 * some minor changes
-* added JAVA_HOME
+* added JAVA_HOME for jdk 8
 * added Maven OPTS and PATH
 
 ## Removed .gdbinit
@@ -26,9 +26,10 @@ fork from [Mathias’s dotfiles](https://github.com/mathiasbynens/dotfiles)
 
 * do not hide the dock
 * change hot corners
-* lower keyboard rate
+* change keyboard repeat rate
 * add vpn in menu bar
 * do not minimize windows in application icon
+* changed order of spotlight items
 
 ## Removed .screenrc
 
