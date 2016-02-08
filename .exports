@@ -27,3 +27,7 @@ export MAVEN_OPTS="-Xms512m -Xmx1024m -XX:MaxPermSize=1024m"
 
 # Add `~/bin` to the `$PATH`. Allows to add local scripts.
 export PATH="$HOME/bin:$JAVA_HOME/bin:$M2:$PATH";
+
+# Add node to the `$PATH`
+export PATH="/usr/local/bin:$PATH";
+
