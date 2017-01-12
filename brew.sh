@@ -1,8 +1,4 @@
-#!/usr/bin/env bash
-
-# Install command-line tools using Homebrew.
-
-# Ask for the administrator password upfront.
+# ask for the administrator password upfront.
 sudo -v
 
 # Keep-alive: update existing `sudo` time stamp until the script has finished.
@@ -27,7 +23,7 @@ brew install wget --with-iri
 # Install more recent versions of some OS X tools.
 brew install vim --override-system-vi
 
-brew install git
+brew install git-flow
 brew install git-lfs
 brew install tree
 
