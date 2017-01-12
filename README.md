@@ -1,6 +1,6 @@
 My dotfiles, started from scratch
 
-h1. Instructions
+# Instructions
 * source bootstrap.sh
 * .osx
 * ./brew.sh
